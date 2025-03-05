@@ -1,10 +1,3 @@
-# credit-risk-classification
-
-In completing this challenge, the student reviewed past videos covering classroom demonstrations of machine learning. The student also made use of microsoft co-pilot,
-and google community forums discussing machine learning and algorithms.
-
-Here below are answers inspired by discussions in community forums (e.g. (https://online.hbs.edu/blog/post/how-to-read-financial-statements)) in response to the questions following the codes developed for this challenge:
-
 # Module 12 Report Template
 
 ## Overview of the Analysis
